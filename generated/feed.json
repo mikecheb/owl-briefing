@@ -1,0 +1,25 @@
+[{
+  "uid": "05/21/2018 0",
+  "updateDate": "2018-05-21T07:59:40.963Z",
+  "titleText": "No matches today",
+  "mainText": "There are no matches today. The Overwatch League will return this Wednesday at 4pm.",
+  "redirectionUrl": "https://overwatchleague.com/en-us/schedule"
+}, {
+  "uid": "05/19/2018 3",
+  "updateDate": "2018-05-20T07:59:40.963Z",
+  "titleText": "LDN 1 - NYE 3",
+  "mainText": "The New York Excelsior trounced the London Spitfire, 3 to 1.",
+  "redirectionUrl": "https://overwatchleague.com/en-us/schedule"
+}, {
+  "uid": "05/19/2018 2",
+  "updateDate": "2018-05-20T06:59:40.963Z",
+  "titleText": "SHD 1 - VAL 3",
+  "mainText": "The Los Angeles Valiant walked away with a win over the Shanghai Dragons, 3 to 1.",
+  "redirectionUrl": "https://overwatchleague.com/en-us/schedule"
+}, {
+  "uid": "05/19/2018 2",
+  "updateDate": "2018-05-20T06:59:40.963Z",
+  "titleText": "PHI 4 - FLA 0",
+  "mainText": "The Philadelphia Fusion crushed the Florida Mayhem, 4 to 0.",
+  "redirectionUrl": "https://overwatchleague.com/en-us/schedule"
+}]

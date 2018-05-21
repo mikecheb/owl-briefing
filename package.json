@@ -1,0 +1,21 @@
+{
+  "name": "owl-briefing",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "./node_modules/.bin/tsc",
+    "run": "node ./dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikecheb/owl-briefing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/mikecheb/owl-briefing#readme",
+  "devDependencies": {
+    "@types/node": "^10.1.2",
+    "typescript": "^2.8.3"
+  }
+}
